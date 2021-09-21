@@ -52,6 +52,7 @@
     <a href="https://www.youtube.com/channel/UCmfhnMyh31rKYEEPpCVVu3w">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
+        <img align="right" alt="Rafa-yoda" height="150" width="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b269c80f-3857-47f7-a98e-60beacda8c1e/d5h4kbr-07934b87-d1e6-41a3-a592-eac26fc27917.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyNjljODBmLTM4NTctNDdmNy1hOThlLTYwYmVhY2RhOGMxZVwvZDVoNGtici0wNzkzNGI4Ny1kMWU2LTQxYTMtYTU5Mi1lYWMyNmZjMjc5MTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tTArrsFiqeF5k3iT0vgwncJDu0Rc4-e4fztuigMarGk">
 </p>
 
 <p align="center"> 
