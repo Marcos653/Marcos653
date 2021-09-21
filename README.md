@@ -1,4 +1,4 @@
-## Oiii! Eu sou O MARCOS COSTA
+## Oiii! Eu sou o Marcos Costa
 
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### Sobre mim
 
-- 👨‍🎓 Estudante de Analise e desenvolvimento de sistemas, atualmente estou cursando o 2° semestre.
+- 👨‍🎓 Estudante de Analise e desenvolvimento de sistemas, atualmente estou cursando o 2° período.
 - 🎯 Interesse: Java, HTML, CSS, JavaScript, phyton, MySQL.
 - 🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER DESENVOLVEDOR" e hoje em dia nada mudou kkkk.
 
