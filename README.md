@@ -43,7 +43,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" src="https://img.icons8.com/color/344/python--v1.png">   
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://img.icons8.com/color/344/django.png">   
+    <img height="70" src="https://img.icons8.com/color/344/django.png">   
     
    
 </p>
