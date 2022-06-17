@@ -16,7 +16,7 @@
 
 ### Sobre mim
 
-- 👨‍🎓 Estudante de Analise e desenvolvimento de sistemas, atualmente estou cursando o 3° período.
+- 👨‍🎓 Estudante de Analise e desenvolvimento de sistemas, atualmente estou cursando o ultimo período.
 - 🎯 Interesse: Java, HTML, CSS, JavaScript, phyton, MySQL.
 - 🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER DESENVOLVEDOR" e hoje em dia nada mudou kkkk.
 
