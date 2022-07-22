@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Marcos Costa
+## HEYY! I'm Marcos Costa
 
 
 <p align="center">
@@ -14,12 +14,10 @@
   </a>
 </p>
 
-### Sobre mim
+### About me
 
-- 👨‍🎓 Estudante de Analise e desenvolvimento de sistemas, atualmente estou cursando o ultimo período.
-- 🎯 Interesse: Java, HTML, CSS, JavaScript, phyton, MySQL.
-- 🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER DESENVOLVEDOR" e hoje em dia nada mudou kkkk.
-
+- 👨‍🎓 Systems Analysis and Development Student, currently I'm attending the last period.
+- 🎯 Interest: Java, JavaScript, Python, SQL, NOSQL, SpringBoot, Django, Node.
 
 ## Skills :nerd_face:
 <p align="center">
@@ -43,7 +41,10 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" src="https://img.icons8.com/color/344/python--v1.png">   
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="70" src="https://img.icons8.com/color/344/django.png">   
+    <img height="70" src="https://img.icons8.com/color/344/django.png">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="70" src="https://img.icons8.com/color/344/django.png">
+     
     
    
 </p>
@@ -67,7 +68,7 @@
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total Profile Visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Marcos653/count.svg" />
  </p>
