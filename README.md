@@ -43,7 +43,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="70" src="https://img.icons8.com/color/344/django.png">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="70" src="https://img.icons8.com/color/344/django.png">
+    <img height="70" src="https://www.the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png">
      
     
    
