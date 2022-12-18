@@ -16,7 +16,7 @@
 
 ### About me
 
-- 👨‍🎓 Systems Analysis and Development Student, currently I'm attending the last period.
+- 👨‍🎓 Degree in system analysis and development.
 - 🎯 Interest: Java, JavaScript, Python, SQL, NOSQL, SpringBoot, Django, Node.
 
 ## Skills :nerd_face:
