@@ -3,7 +3,7 @@
 ### About me
 
 - 🎓 Degree in system analysis and development at Unopar.
-- 👨‍🎓 I am a graduate student in data science at Unopar.
+- 👨‍🎓 I am a graduate student in java architecture and development at FIAP.
 - 🎯 Interest: Java, JavaScript, Python, SQL, NOSQL, SpringBoot, Django, Node.
 
 ## Skills :nerd_face:
