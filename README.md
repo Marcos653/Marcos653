@@ -8,17 +8,23 @@
 
 <h2 align="center">Skills 😎</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
-    <img height="50" src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="MongoDB">
-    <img height="50" src="https://img.icons8.com/color/344/python--v1.png" alt="Python">
-    <img height="50" src="https://img.icons8.com/color/344/django.png" alt="Django">
-    <img height="50" src="https://www.the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="Node.js">
+<div align="center" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" style="width: 60px; height: 60px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 60px; height: 60px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width: 60px; height: 60px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width: 60px; height: 60px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 60px; height: 60px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 60px; height: 60px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" style="width: 60px; height: 60px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width: 60px; height: 60px; object-fit: contain;">
 </div>
+
 
 ## Contact :iphone:
 
